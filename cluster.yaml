@@ -1,0 +1,5 @@
+nodes:
+  number: 1200
+  cpu: 48
+  memory: 384
+oversell: 1.0
